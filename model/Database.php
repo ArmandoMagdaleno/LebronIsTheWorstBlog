@@ -27,8 +27,6 @@ class Database {
             if ($query) {
                 echo "<p> Successfully created database " . $database . "</p>";
             }
-        } else {
-            echo "<p> Database already exists </p>";
         }
     }
 

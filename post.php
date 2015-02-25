@@ -25,6 +25,11 @@
                             <a class="list-group-item" href="Post.php">POST</a> 
                         </nav>
                     </div>
+                    <div class="col-xs-2">  
+                        <nav align="center" >
+                            <a class="list-group-item" href="html/public_html/index.html">ABOUT ME</a> 
+                        </nav>
+                    </div>
                 </div>
             </div>
         </body>    

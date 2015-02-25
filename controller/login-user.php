@@ -1,18 +1,38 @@
-        <link type="text/css" rel="stylesheet" href="css/bootstrap-theme.css">
+                <link type="text/css" rel="stylesheet" href="css/bootstrap-theme.css">
         <link type="text/css" rel="stylesheet" href="css/bootstrap.css">
         <link type="text/css" rel="stylesheet" href="css/custom-style.css">
-        
-        <div class="row"> 
-            <div class="col-xs-2">
-                <nav class="list-group">
-                    <a class="list-group-item" href="index.php">Home</a>
-                    <a class="list-group-item" href="login.php">Login</a>
-                    <a class="list-group-item" href="register.php">Register</a>
-                    <a class="list-group-item" href="post.php">Post</a>
-                    
-                </nav>
+
+        <body>       
+            <div class="container">    
+                <div class="row"> 
+                    <div class="col-xs-2">
+                        <nav align="center">
+                            <a class="list-group-item" href="index.php">HOME</a> 
+                        </nav>
+                    </div>
+                    <div class="col-xs-2"> 
+                        <nav align="center">
+                            <a class="list-group-item" href="login.php">LOGIN</a>
+                        </nav>
+                    </div>
+                    <div class="col-xs-2">
+                        <nav align="center">
+                            <a class="list-group-item" href="register.php">REGISTER</a>
+                        </nav>
+                    </div>    
+                    <div class="col-xs-2">  
+                        <nav align="center">
+                            <a class="list-group-item" href="Post.php">POST</a> 
+                        </nav>
+                    </div>
+                    <div class="col-xs-2">  
+                        <nav align="center" >
+                            <a class="list-group-item" href="html/public_html/index.html">ABOUT ME</a> 
+                        </nav>
+                    </div>
+                </div>
             </div>
-        </div>
+        </body>
 
 
 <?php
