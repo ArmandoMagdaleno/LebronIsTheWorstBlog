@@ -13,18 +13,17 @@ div{
 
 .row{
     border-color: pink;
-}
+}    
 
 .list-group-item{
     border: 0;
-    margin-top:5;
+    margin-top:5px;
     margin-bottom: 5px;
     background-color: transparent;
 }
 
 body{
     background: lightskyblue;
-    text-decoration-color: white;
 }
 
 #projectsbody{
